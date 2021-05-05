@@ -23,9 +23,12 @@ ubuntu参考：https://docs.docker.com/engine/install/ubuntu/
 
 ![img](./doc/make_clean.png)
  
-### vnc使用
+### 界面使用
 我使用的是Remmina,也可以vnc,如果没有就安装
-![img](./doc/make_clean.png)
+![img](./doc/client.png)
+
+使用浏览器
+![img](./doc/browser.png)
 
 
 ### 可能错误
