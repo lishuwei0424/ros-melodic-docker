@@ -6,11 +6,11 @@ ubuntu参考：https://docs.docker.com/engine/install/ubuntu/
 ### 构建生成image
 切换到docker目录下：
 * 帮助
-    make help
+    make help  
 ![img](./doc/make_help.png)
 
-* 生产镜像
-    make build
+* 生产镜像  
+    make build   
 ![img](./doc/make_build.png)
 
 * 将del镜像
